@@ -1,7 +1,11 @@
+![](https://img.shields.io/github/license/karlos-silva/nlw-happy?style=plastic)
+![](https://img.shields.io/github/forks/karlos-silva/nlw-happy)
+![](https://img.shields.io/github/stars/karlos-silva/nlw-happy)
+
 <h1 align="center" >
   <img alt="happy" title="happy" src="./assets/banner.png" />
 </h1>
-<img src="https://img.shields.io/github/license/karlos-silva/nlw-happy?style=plastic"><img src="https://img.shields.io/github/forks/karlos-silva/nlw-happy"><img src="https://img.shields.io/github/stars/karlos-silva/nlw-happy">
+
 
 <p align="center">Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3</p>
 
