@@ -165,6 +165,7 @@
   transition: background-color 0.2s;
 }
 
+
 .orphanage-details .orphanage-details-content button.contact-button svg {
   margin-right: 16px;
 }
@@ -172,3 +173,5 @@
 .orphanage-details .orphanage-details-content button.contact-button:hover {
   background: #36CF82;
 }
+
+

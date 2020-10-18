@@ -20,6 +20,7 @@ interface Orphanage {
   about: string;
   instructions: string;
   opening_hours: string;
+  whats: number;
   open_on_weekends: boolean;
   images: Array<{
     id: number;
@@ -54,7 +55,7 @@ export default function OrphanageDetails() {
   }
 
   function handleOpenWhatsRedirect() {
-    Linking.openURL(`https://api.whatsapp.com/send?phone=${5541995646829}`);
+    Linking.openURL(`https://api.whatsapp.com/send?phone=${orphanage?.whats}`);
   }
 
   return (

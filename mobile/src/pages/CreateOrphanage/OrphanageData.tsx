@@ -37,6 +37,7 @@ export default function OrphanageData() {
     data.append('longitude', String(longitude));
     data.append('instructions', instructions);
     data.append('opening_hours', opening_hours);
+    data.append('whats', whats);
     data.append('open_on_weekends', String(open_on_weekends));
 
     images.forEach((image, index) => {
@@ -95,12 +96,12 @@ export default function OrphanageData() {
         onChangeText={setAbout}
       />
 
-      {/* <Text style={styles.label}>Whatsapp</Text>
+      <Text style={styles.label}>Whatsapp</Text>
       <TextInput
         style={styles.input}
         value={whats}
         onChangeText={setWhats}
-      /> */}
+      />
 
       <Text style={styles.label}>Fotos</Text>
 
