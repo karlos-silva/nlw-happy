@@ -2,6 +2,10 @@
 ![](https://img.shields.io/github/forks/karlos-silva/nlw-happy)
 ![](https://img.shields.io/github/stars/karlos-silva/nlw-happy)
 
+<h1 align="center" >
+  <img alt="happy" title="happy" src="./assets/banner.png" />
+</h1>
+
 
 
 <p align="center">Leve felicidade para o mundo, visite orfanatos e mude o dia de muitas crianças. NLW#3</p>
@@ -69,7 +73,6 @@ Este projeto foi construído durante a terceira edição do evento Next Level We
 - NodeJS
 - Gerenciador de pacotes (Npm ou Yarn) 
 
-> Em breve mais detalhes...
 
 ### 👾 Clonando o Repositório
 
